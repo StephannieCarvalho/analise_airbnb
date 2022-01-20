@@ -2,14 +2,23 @@
 
 O foco deste projeto é analisar a ocupação, detalhes e preços de anúncios no Airbnb e apartir destas informações, enteder os principais bairros com listings, visualizar o faturamento médio, as correlações estabelecidas e antecedência de reservas.
 
+## Pré-Requisitos
 
-## Tecnologias Utilizadas
+phyton3.0-.py
 
-Todo o projeto foi desenvolvido em Phyton.
+## Primeiros Passos
 
-## Arquivos Utilizados
+Instalação das bibliotecas: 
 
-A base de dados está em csv e disponível para dowload junto a análise. 
+!pip install pandas
+
+!pip install numpy
+
+!pip intall seaborn
+
+!pip install matplotlib 
+
+Após a instalação das bibliotecas, suba os arquivos em csv para o drive e execute o arquivo das analise_airbnb.ipynb
 
 ## Autores
 
