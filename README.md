@@ -18,7 +18,9 @@ Instalação das bibliotecas:
 
 !pip install matplotlib 
 
-Após a instalação das bibliotecas, execupe o arquivo: analise_airbnb.ipynb
+Após a instalação das bibliotecas, execupe o arquivo: analise_airbnb.
+
+## Conclusão
 
 ## Autores
 
