@@ -22,6 +22,8 @@ Após a instalação das bibliotecas, execupe o arquivo: analise_airbnb.
 
 ## Conclusão
 
+Diante das análises, nota-se um grande potencial no ramo de hotelaria e hospedagem em toda região, com destaque nas regiões com rápido acesso às principais praias. Na região dos Ingleses e Canasvieiras o destaque se dá pelo grande número de listings e um valor mais acessível e em Jurerê por locais mais luxuosos, com valores acima da média. A região do Centro e Lagoa da conceição pode ser um ótimo local para o hóspede que pretende pagar valores mais em conta e não se importar em estar um pouco mais distantes da região norte da ilha.
+
 ## Autores
 
 Stesphannie Carvalho.
