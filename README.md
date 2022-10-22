@@ -26,4 +26,4 @@ Diante das análises, nota-se um grande potencial no ramo de hotelaria e hospeda
 
 ## Autores
 
-Stesphannie Carvalho.
+Stephannie Carvalho.
